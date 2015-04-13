@@ -1,0 +1,32 @@
+! scrollbar style 
+URxvt.scrollstyle: plain
+
+! declaring font
+URxvt.font: xft:New Century Schoolbook:size=7
+
+! font spacing
+URxvt.letterSpace: -4
+
+!Background Color
+URxvt*background: black
+
+!Font Color
+URxvt*foreground: white
+
+! Other colors
+URxvt*color0: black
+URxvt*color1: red3
+URxvt*color2: green3
+URxvt*color3: yellow3
+URxvt*color4: blue2
+URxvt*color5: orange
+URxvt*color6: green
+URxvt*color7: gray90
+URxvt*color8: grey50
+URxvt*color9: red
+URxvt*color10: cyan
+URxvt*color11: yellow
+URxvt*color12: blue
+URxvt*color13: red
+URxvt*color14: green
+URxvt*color15: white
